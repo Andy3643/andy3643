@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andy3643" alt="andy3643" /></a> </p>
 
-- 🌱 I’m currently learning **React and Data science with python.**
+- 🌱 I’m currently learning **Node and ExpressJS.**
 
-- 💬 Ask me about **Angular,Flask and Django**
+- 💬 Ask me about **Angular,React,Flask,Django and AWS**
 
 - 📫 How to reach me **joshandy2021@gmail.com**
 
